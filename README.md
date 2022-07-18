@@ -1,2 +1,2 @@
-# SkillFactory-ReactJS
-SkillFactory by Avalith 
+# SkillFactory-ReactJS  :rocket:
+ :sparkles: SkillFactory by Avalith 
